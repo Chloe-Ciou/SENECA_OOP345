@@ -1,0 +1,5 @@
+I have learned,
+1. How to use two arguments version of the main function.
+2. How to use initializer list to initialize constant data members within a user-defined object.
+3. The concepts of linkage in c++ language: external linkage(extern), internal linkage (static), and non-existing.
+4. The concepts of scopes in c++ language: local scope, class scope, namespace scope, and global scope.

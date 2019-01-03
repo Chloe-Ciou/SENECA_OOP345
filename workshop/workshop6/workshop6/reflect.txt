@@ -1,0 +1,9 @@
+I have learned:
+
+1. How to use an STL vector to store and manage iProduct polymorphic objects.
+2. How to declare and define an array of class variable of the TaxableProdunt class.
+3. How to report and handle an exception thrown from the readProduct(std::ifstream&) function
+4. The difference between get() and getline() functions.
+
+
+

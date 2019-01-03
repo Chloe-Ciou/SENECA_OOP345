@@ -1,0 +1,8 @@
+
+Personally, I believe the most difficult part of this project is Milestone 3.
+It took me a lot of time to understand its main concept and running process.
+However, after looking more details of the code and discused with other classmates.
+I figured it out. Additionally, I really think it is the hardest project I have ever done in the school,
+thus I was happy about that I had started doing this project earlier, then I was not panic.
+As a programmer, is better to start doing anyting earlier.
+

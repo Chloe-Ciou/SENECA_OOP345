@@ -1,0 +1,7 @@
+
+In this workshop, I have learn:
+
+1. How to implement some build-in functions from STLs, such as accumulate(), transform(), copy(), sort(), inner_product()..
+2. How to set output format for the data.
+3. How to copy data from a file to a vector container.
+

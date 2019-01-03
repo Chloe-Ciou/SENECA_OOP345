@@ -1,0 +1,8 @@
+
+In this workshop, I have learned:
+    1. Using a raw pointer to an object or resource may cause memory leak when throw an exception
+       before deleting that raw pointer. Wrapping statements with try and catch block can avoid this issue,
+       or using a smart pointer to manage the bject or resource to ensure exception safety.
+    2. Default constructor and assignment operator member functions are deleted from std::uniqure_ptr<> library.
+       Thus, std::move() function must be used when transfering the owenership of the object or resource to another
+       pointer.
